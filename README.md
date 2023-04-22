@@ -9,7 +9,7 @@ Full Stack Developer
 * ✉️  You can contact me at [mramazzini123@gmail.com](mailto:mramazzini123@gmail.com)
 * 🚀  I'm currently working on [MERN stack educational app](http://github.com/mramazzini/edu-site)
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I am currently losing my sanity to SQL queries.
+
 
 ### Skills
 
