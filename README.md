@@ -1,7 +1,7 @@
 Hi 👋 My name is Matteo Ramazzini
 =================================
 
-Full Stack Developer
+Software Developer
 --------------------
 
 * 🌍  I'm based in Houston Tx
