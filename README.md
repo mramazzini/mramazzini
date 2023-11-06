@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Houston Tx
 * 🖥️  See my portfolio at [matteoramazzini.com](http://matteoramazzini.com)
 * ✉️  You can contact me at [mramazzini123@gmail.com](mailto:mramazzini123@gmail.com)
-* 🚀  I'm currently working on [MERN stack educational app](http://github.com/mramazzini/edu-site)
+* 🚀  I'm currently working on [C++ Game Engine](http://github.com/mramazzini/C-Game-engine)
 * 🤝  I'm open to collaborating on interesting projects.
 
 
